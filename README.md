@@ -1,1 +1,1 @@
-This project demonstrates various implementations of the Queue data structure in Java. The queue is an abstract data structure that follows the First-In-First-Out (FIFO) principle, meaning the first element added to the queue will be the first one to be removed.
+This project demonstrate implementations of the Queue data structure in Java. The queue is an abstract data structure that follows the First-In-First-Out (FIFO) principle.
